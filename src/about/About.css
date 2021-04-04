@@ -1,0 +1,15 @@
+.img-wrp {
+    width: 300px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: -130px;
+}
+
+.cart{
+    background-color: green ;
+}
+
+.cart-list{
+    color:green;
+}
+

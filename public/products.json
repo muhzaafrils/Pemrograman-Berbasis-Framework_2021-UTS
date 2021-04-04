@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Panasonic CS-PC9PKJ",
+    "price": 1500000,
+    "description": "Tipe Split, Ukuran  Dimensi 290 x 870 x 214 (mm), Berat 9 kg, Kapasitas Mesin pendingin 9000 kj/h, Penggunaan daya listrik 840 W",
+    "image": "b1.jpg"
+  },
+  {
+    "title": "Sharp AH-AP5UHL",
+    "price": 3325000,
+    "description": "Tipe Split, Dimensi Indoor: 877 x 292 x 222 mm-Outdoor: 598 x 495 x 265 mm, Kapasitas 5275 kj/h, Penggunaan daya listrik 1410 W, Keistimewaan Low Wattage and Low Voltage Operation",
+    "image": "b2.jpg"
+  },
+  {
+    "title": "Midea MSFL-05CR",
+    "price": 3599000,
+    "description": "Tipe Split, Dimensi Indoor Dimension (WxDxH) 715x188x250-Outdoor Dimension (WxDxH) 685x260x430, Berat 8.5kg(Indoor)-21kg(Outdoor), Kapasitas 5274 kj/h, Penggunaan daya listrik 260 W, Keistimewaan Turbo Mode-Auto Restart-Cold Catalyst Filter",
+    "image": "b3.jpg"
+  },
+  {
+    "title": "Samsung AR05KRFLAWKN",
+    "price": 2299000,
+    "description": "Tipe Split, Dimensi Net Dimension (Indoor, WxHxD) 718x180x240 mm-Net Dimension (Outdoor, WxHxD) 600x500x232 mm, Berat 8.5kg(Indoor)-21kg(Outdoor), Kapasitas 5116 kj/h (4850 Btu/h), Penggunaan daya listrik 260 W, Keistimewaan 24-Hour Timer-Auto Restart-Cold Catalyst Filter",
+    "image": "b4.jpg"
+  },
+  {
+    "title": "LG T08EMV",
+    "price": 2895000,
+    "description": "Tipe Split, Dimensi Indoor : 756 x 256 x 184 mm-Outdoor : 720 x 500 x 270 mm, Berat 8.5kg(Indoor)-21kg(Outdoor), Kapasitas 7385.4 kj/h, Penggunaan daya listrik 260 W, Keistimewaan Smart Inverter",
+    "image": "b5.jpg"
+  },
+  {
+    "title": "LG T05NLA",
+    "price": 3264000,
+    "description": "Tipe Split, Dimensi ndoor Unit (WxHxD) (mm) 758 x 260 x 155-Outdoor Unit (WxHxD) (mm) 574x534x266, Berat Indoor Unit 6.3kg ; Outdoor Unit 20kgr",
+    "image": "b6.jpg"
+  }
+]

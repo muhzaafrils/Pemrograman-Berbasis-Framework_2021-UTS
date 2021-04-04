@@ -1,0 +1,74 @@
+img {
+    height: 100%;
+    width: 100%;
+    box-shadow: 1px 1px 2px 2px #888888;
+    border-radius: 3px;
+}
+
+.item {
+    text-align: center;
+    margin: 10px 0;
+    padding: 0 4%;
+    background-color: white;
+
+}
+
+.img-wrap {
+    width: 100%;
+    height: 200px;
+    position: relative;
+    background-color: white;
+}
+
+.img-wrap .view-btn {
+    top: 35px;
+    background: green;
+    color: green;
+}
+
+.img-wrap .add-btn {
+    top: 125px;
+    background: green;
+    color: white;
+    font-weight: bold;
+}
+
+.item .btn {
+    display: none; 
+    position: absolute;
+    left:29%;
+    height: 35px;
+    width: 120px;
+    font-size: 13px;
+    font-weight: 500;
+    color: white;
+}
+
+.btn a {
+    color: white;
+}
+
+.img-wrap:hover .btn, .btn:hover {
+    display: inline-block;
+}
+
+.brand, .price {
+    color: green;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.title {
+    text-transform: uppercase;
+        font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+.description {
+    font-size: small;
+}
+
+
+
